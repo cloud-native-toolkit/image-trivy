@@ -1,0 +1,1 @@
+# Trivy container image
